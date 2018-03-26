@@ -1,7 +1,7 @@
 # LaTeX2e 插图指南, 第三版
 
 ## 简介
-[Using Imported Graphics in LaTeX and pdfLaTeX](http://mirrors.ctan.org/info/epslatex/english/epslatex.pdf) 中译本
+[Using Imported Graphics in LaTeX and pdfLaTeX](http://mirrors.ctan.org/info/epslatex/english/epslatex.pdf) 中译本，但是将PDF文件里的链接周围的红框去除了。
 
 ## 编译方式
 ### 编译依赖
